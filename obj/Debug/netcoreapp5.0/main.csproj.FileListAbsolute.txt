@@ -1,0 +1,80 @@
+/home/runner/C/bin/Debug/netcoreapp5.0/main
+/home/runner/C/bin/Debug/netcoreapp5.0/main.deps.json
+/home/runner/C/bin/Debug/netcoreapp5.0/main.runtimeconfig.json
+/home/runner/C/bin/Debug/netcoreapp5.0/main.runtimeconfig.dev.json
+/home/runner/C/bin/Debug/netcoreapp5.0/main.dll
+/home/runner/C/bin/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/C/bin/Debug/netcoreapp5.0/main.pdb
+/home/runner/C/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/C/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/C/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/C/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/C/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
+/home/runner/C/obj/Debug/netcoreapp5.0/main.dll
+/home/runner/C/obj/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/C/obj/Debug/netcoreapp5.0/main.pdb
+/home/runner/C/obj/Debug/netcoreapp5.0/main.genruntimeconfig.cache
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/main.dll
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/main.pdb
+/home/runner/C-Sandbox-1/bin/Debug/netcoreapp5.0/main
+/home/runner/C-Sandbox-1/bin/Debug/netcoreapp5.0/main.deps.json
+/home/runner/C-Sandbox-1/bin/Debug/netcoreapp5.0/main.runtimeconfig.json
+/home/runner/C-Sandbox-1/bin/Debug/netcoreapp5.0/main.runtimeconfig.dev.json
+/home/runner/C-Sandbox-1/bin/Debug/netcoreapp5.0/main.dll
+/home/runner/C-Sandbox-1/bin/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/C-Sandbox-1/bin/Debug/netcoreapp5.0/main.pdb
+/home/runner/C-Sandbox-1/obj/Debug/netcoreapp5.0/main.genruntimeconfig.cache
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/main.dll
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/main.pdb
+/home/runner/spell-check-C-startcode/bin/Debug/netcoreapp5.0/main
+/home/runner/spell-check-C-startcode/bin/Debug/netcoreapp5.0/main.deps.json
+/home/runner/spell-check-C-startcode/bin/Debug/netcoreapp5.0/main.runtimeconfig.json
+/home/runner/spell-check-C-startcode/bin/Debug/netcoreapp5.0/main.runtimeconfig.dev.json
+/home/runner/spell-check-C-startcode/bin/Debug/netcoreapp5.0/main.dll
+/home/runner/spell-check-C-startcode/bin/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/spell-check-C-startcode/bin/Debug/netcoreapp5.0/main.pdb
+/home/runner/spell-check-C-startcode/obj/Debug/netcoreapp5.0/main.genruntimeconfig.cache
+/home/runner/spellcheck-C-startcode/bin/Debug/netcoreapp5.0/main
+/home/runner/spellcheck-C-startcode/bin/Debug/netcoreapp5.0/main.deps.json
+/home/runner/spellcheck-C-startcode/bin/Debug/netcoreapp5.0/main.runtimeconfig.json
+/home/runner/spellcheck-C-startcode/bin/Debug/netcoreapp5.0/main.runtimeconfig.dev.json
+/home/runner/spellcheck-C-startcode/bin/Debug/netcoreapp5.0/main.dll
+/home/runner/spellcheck-C-startcode/bin/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/spellcheck-C-startcode/bin/Debug/netcoreapp5.0/main.pdb
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/main.dll
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/main.pdb
+/home/runner/spellcheck-C-startcode/obj/Debug/netcoreapp5.0/main.genruntimeconfig.cache
+F:\c#\Spell Check\bin\Debug\netcoreapp5.0\main.exe
+F:\c#\Spell Check\bin\Debug\netcoreapp5.0\main.deps.json
+F:\c#\Spell Check\bin\Debug\netcoreapp5.0\main.runtimeconfig.json
+F:\c#\Spell Check\bin\Debug\netcoreapp5.0\main.runtimeconfig.dev.json
+F:\c#\Spell Check\bin\Debug\netcoreapp5.0\main.dll
+F:\c#\Spell Check\bin\Debug\netcoreapp5.0\main.pdb
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\main.csproj.AssemblyReference.cache
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\main.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\main.AssemblyInfoInputs.cache
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\main.AssemblyInfo.cs
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\main.csproj.CoreCompileInputs.cache
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\main.dll
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\refint\main.dll
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\main.pdb
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\main.genruntimeconfig.cache
+F:\c#\Spell Check\obj\Debug\netcoreapp5.0\ref\main.dll
